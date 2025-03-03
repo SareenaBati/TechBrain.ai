@@ -2,14 +2,14 @@ import time
 import pytest
 from selenium import webdriver
 
-from TechBrain.Pages.sign_in_page import SignIn
-from TechBrain.Pages.dashboard_page import Dashboard
-from TechBrain.Pages.sign_up import SignUp
-from TechBrain.Pages.sign_out import SignOut
-from TechBrain.Pages.forget_password import ForgetPassword
-from TechBrain.Pages.Profile import Profile
-from TechBrain.Pages.Quiz import Quiz
-from TechBrain.Pages.end_test import EndTest
+from Automation.Project.TechBrain.Pages.sign_in_page import SignIn
+from Automation.Project.TechBrain.Pages.dashboard_page import Dashboard
+from Automation.Project.TechBrain.Pages.sign_up import SignUp
+from Automation.Project.TechBrain.Pages.sign_out import SignOut
+from Automation.Project.TechBrain.Pages.forget_password import ForgetPassword
+from Automation.Project.TechBrain.Pages.Profile import Profile
+from Automation.Project.TechBrain.Pages.Quiz import Quiz
+from Automation.Project.TechBrain.Pages.end_test import EndTest
 
 
 
